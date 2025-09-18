@@ -20,15 +20,7 @@ It uses **retrieval-augmented generation (RAG)** with a local LLM (**Mistral via
 
 ## ⚙️ Quick Start
 ```bash
-# create env
-conda create -n devenv python=3.11 -y
-conda activate devenv
 
-# install deps
-pip install -r requirements.txt
-
-# launch Jupyter
-jupyter lab
 
 📅 Roadmap
 
