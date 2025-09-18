@@ -1,7 +1,7 @@
 # DevAgent — AI Code Assistant
 
 ## 🚀 Overview
-DevAgent is an AI prototype that can **analyze, debug, and optimize code**.  
+DevAgent is an AI prototype that can **analyze, debug, and optimize code GitHub code**.  
 It uses **retrieval-augmented generation (RAG)** with a local LLM (**Mistral via Ollama**) and a vector database (**Chroma**) to provide contextual answers about source code.
 
 ## ✨ Features
