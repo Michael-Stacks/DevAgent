@@ -24,7 +24,7 @@ It uses **retrieval-augmented generation (RAG)** with a local LLM (**Mistral via
 
 📅 Roadmap
 
-✅ RAG prototype
+ ✅ RAG prototype
 
  ⬜ Docker sandbox for testing
 
