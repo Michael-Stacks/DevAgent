@@ -26,8 +26,8 @@ It uses **retrieval-augmented generation (RAG)** with a local LLM (**Mistral via
 
  ✅ RAG prototype
 
- ⬜ Docker sandbox for testing
+ ✅ Docker sandbox for testing
 
- ⬜Patch generation
+ ✅Patch generation
 
  ⬜Gradio web UI
