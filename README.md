@@ -18,7 +18,4 @@ It uses **retrieval-augmented generation (RAG)** with a local LLM (**Mistral via
 - Ollama (Mistral)  
 - GitPython + Datasets  
 
-## ⚙️ Quick Start
-```
-
 
