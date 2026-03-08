@@ -19,6 +19,6 @@ It uses **retrieval-augmented generation (RAG)** with a local LLM (**Mistral via
 - GitPython + Datasets  
 
 ## ⚙️ Quick Start
-```bash
+```
 
 
